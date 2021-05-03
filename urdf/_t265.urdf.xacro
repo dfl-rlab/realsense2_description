@@ -20,7 +20,7 @@ aluminum peripherial evaluation case.
     <xacro:property name="fisheye1_offset_x" value="-0.0411"/>
     <xacro:property name="fisheye1_offset_y" value="0.0"/>
     <xacro:property name="fisheye1_offset_z" value="0.0"/>
-
+    <xacro:property name="deg_to_rad" value="0.0174533"/>
     <xacro:property name="fisheye2_offset_x" value="0.0229"/>
     <xacro:property name="fisheye2_offset_y" value="0.0"/>
     <xacro:property name="fisheye2_offset_z" value="0.0"/>
